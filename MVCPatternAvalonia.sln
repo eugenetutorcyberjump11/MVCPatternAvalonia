@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCPatternAvalonia", "MVCPatternAvalonia\MVCPatternAvalonia.csproj", "{18B26057-E8A2-4742-A3A5-C092A55F3036}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCPatternAvalonia.Desktop", "MVCPatternAvalonia.Desktop\MVCPatternAvalonia.Desktop.csproj", "{6CD4DF1D-B242-4F83-AA23-8CCB9535A13D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B26057-E8A2-4742-A3A5-C092A55F3036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B26057-E8A2-4742-A3A5-C092A55F3036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B26057-E8A2-4742-A3A5-C092A55F3036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B26057-E8A2-4742-A3A5-C092A55F3036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD4DF1D-B242-4F83-AA23-8CCB9535A13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD4DF1D-B242-4F83-AA23-8CCB9535A13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD4DF1D-B242-4F83-AA23-8CCB9535A13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD4DF1D-B242-4F83-AA23-8CCB9535A13D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EEFA02F-599D-4C62-9240-BCE1E4366F1C}
+	EndGlobalSection
+EndGlobal
